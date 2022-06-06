@@ -62,22 +62,25 @@ function App (){
        </div>
         <div className="ip-info--container">
 
-         <div className="ip-address">
+         <div className="info-element">
           <p>IP ADDRESS</p>
           <h3>{IPAddress}</h3>
          </div>
 
-         <div>
+         <span class="separator"></span>
+         <div className="info-element">
           <p>LOCATION</p>
           <h3>{infoIP.district}</h3>
          </div>
 
-         <div>
+         <span class="separator"></span>
+         <div className="info-element">
           <p>TIMEZONE</p>
           <h3>UTC {infoIP.time_zone_offset}:00</h3>
          </div>
 
-         <div>
+         <span class="separator"></span>
+         <div className="info-element">
           <p>COUNTRY</p>
           <h3>{infoIP.country_name}</h3>
          </div> 
