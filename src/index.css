@@ -24,6 +24,12 @@ body{
     text-align: center;
     font-weight: 500;
 }
+.header--container p{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-weight: 300;
+}
 form{
     display: flex;
     justify-content: center;
