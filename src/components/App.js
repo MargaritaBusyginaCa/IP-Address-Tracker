@@ -60,6 +60,7 @@ function App (){
           <p id="search-info">Search for any IP address</p>
         <form>
           <input type="text" 
+                 autocomplete="off"
                  value={IPAddress}
                  name="ip" 
                  placeholder="example: 192.212.174.101"
