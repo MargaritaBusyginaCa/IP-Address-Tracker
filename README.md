@@ -1,7 +1,7 @@
-# Quizzical - built with React
+# IP Address Tracker - built with React
 
 ![Design preview](./img/ip-desktop.PNG)
-![Design preview](./img/ip-desktop-2.PNG.PNG)
+![Design preview](./img/ip-desktop-2.PNG)
 
 ## What I used to build this project
 
