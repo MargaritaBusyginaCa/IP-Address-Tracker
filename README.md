@@ -3,7 +3,7 @@
 ![Design preview](./img/ip-desktop.PNG)
 ![Design preview](./img/ip-desktop-2.PNG)
 
-## What I used to build this project
+## What I used to build this amazing project
 
 * React
 * LeafletJS (https://leafletjs.com/)
